@@ -8,7 +8,7 @@ def polynomial_coeffs(K1):
 
 
 # 设置 K1 的范围
-K1_values = np.linspace(-2000, 2000, 10000)  # 从 -20 到 20 的 100 个点
+K1_values = np.linspace(-20, 20, 10000)  # 从 -20 到 20 的 100 个点
 
 # 存储根的实部和虚部
 roots_real = []
